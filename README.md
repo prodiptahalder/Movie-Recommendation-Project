@@ -1,4 +1,5 @@
 "# Movie-Recommendation-Project" 
+
 Recommender.ipynb file contains jupyter notebook code where I trained the model for this content Based Recommendation.
 BinaryData file contains compressed data which is actually 5000 dimensional vector for all movies in the movies_dict.pkl file.
 mypython is the virtual env directory.
