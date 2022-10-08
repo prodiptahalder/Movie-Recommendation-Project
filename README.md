@@ -6,7 +6,7 @@ mypython is the virtual env directory.
 app.py is the main file which is to be executed.
 
 The project is a RESTful API service in which we have one route:
-BASE address + "/recommend/<movie name>" [GET]
-  which will return 5 recommendation for viewers of <movie name> movie.
+BASE address + "/recommend/:movie name" [GET]
+  which will return 5 recommendation for viewers of movie name movie.
   
 In order to run the project, execute :~ python app.py ~:  command.
